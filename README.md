@@ -1,3 +1,4 @@
-# Ashley Vanneste
-# Elene Luyckx
-# Isha Mattelaere
+# Team plopkoek
+- Ashley Vanneste
+- Elene Luyckx
+- Isha Mattelaere
