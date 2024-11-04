@@ -2,3 +2,18 @@
     display: none;
     visibility: hidden;
 }
+
+.hidden:hover{
+    display: block;
+    visibility: visible;
+}
+
+body{
+    background-color: #111;
+    color: #eee;
+    font-family: monospace;
+    font-size: 5rem;
+    display: grid;
+    place-items: center;
+    gap: 1rem;
+}
